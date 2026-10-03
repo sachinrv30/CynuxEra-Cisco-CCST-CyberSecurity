@@ -1,4 +1,4 @@
-# 🛡️ CYNUSERA
+# 🛡️ CYNUXERA
 ## Cisco CCST Cybersecurity Laboratory
 
 <p align="center">
